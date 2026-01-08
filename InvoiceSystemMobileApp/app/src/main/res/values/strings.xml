@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InvoiceSystemMobileApp</string>
+    <string name="client_name">Client: %s</string>
+    <string name="total">Total: $%s</string>
+</resources>
